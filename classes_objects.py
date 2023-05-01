@@ -42,4 +42,13 @@ bypass error using pass
 '''
 
 class People:
-  pass
+  pass # no error
+
+'''
+Student class for inheritance
+'''
+
+class Student():
+  name = "Tim"
+  age = 34
+  gender = "male"
